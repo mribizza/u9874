@@ -3,11 +3,21 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
+  <datafiles number="1" name="datafiles"/>
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites"/>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\OpenSansLight</font>
+    <font>fonts\OpenSansLightBold</font>
+    <font>fonts\OpenSansItalic</font>
+  </fonts>
+  <timelines name="timelines"/>
+  <rooms name="rooms">
+    <room>rooms\mainmenu</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
