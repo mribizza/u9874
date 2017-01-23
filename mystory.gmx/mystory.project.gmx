@@ -6,7 +6,11 @@
   <datafiles number="1" name="datafiles"/>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_tempBubble</sprite>
+    <sprite>sprites\spr_scrollArea</sprite>
+    <sprite>sprites\spr_kindaBlank</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -14,9 +18,13 @@
     <font>fonts\OpenSansLightBold</font>
     <font>fonts\OpenSansItalic</font>
   </fonts>
-  <timelines name="timelines"/>
+  <objects name="objects">
+    <object>objects\obj_Bubble</object>
+    <object>objects\obj_scrollArea</object>
+  </objects>
   <rooms name="rooms">
     <room>rooms\mainmenu</room>
+    <room>rooms\rm_test</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
