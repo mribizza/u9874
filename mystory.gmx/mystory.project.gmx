@@ -10,6 +10,8 @@
     <sprite>sprites\spr_tempBubble</sprite>
     <sprite>sprites\spr_scrollArea</sprite>
     <sprite>sprites\spr_kindaBlank</sprite>
+    <sprite>sprites\spr_button</sprite>
+    <sprite>sprites\spr_toolongtodescribe</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -21,6 +23,9 @@
   <objects name="objects">
     <object>objects\obj_Bubble</object>
     <object>objects\obj_scrollArea</object>
+    <object>objects\obj_option1</object>
+    <object>objects\obj_option2</object>
+    <object>objects\obj_startTheFuckingStoryAlreadyJesusFuckingChrist</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\mainmenu</room>

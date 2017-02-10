@@ -51,9 +51,12 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_Bubble" x="736" y="512" name="inst_646A58BA" locked="0" code="" scaleX="0.100000001490116" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
-    <instance objName="obj_scrollArea" x="736" y="352" name="inst_5107DC53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Bubble" x="736" y="384" name="inst_8D34C1A2" locked="0" code="" scaleX="0.100000001490116" scaleY="0.100000001490116" colour="4294967295" rotation="0"/>
+    <instance objName="obj_scrollArea" x="512" y="352" name="inst_5107DC53" locked="0" code="" scaleX="3.01999998092651" scaleY="1.00800001621246" colour="4294967295" rotation="0"/>
+    <instance objName="obj_startTheFuckingStoryAlreadyJesusFuckingChrist" x="-128" y="128" name="inst_D4C3E333" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Bubble" x="320" y="512" name="inst_2FFCB64B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Bubble" x="704" y="512" name="inst_219BA4D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_option1" x="256" y="640" name="inst_606A6CF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_option2" x="640" y="640" name="inst_B7C11A48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
