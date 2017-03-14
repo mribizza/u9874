@@ -8,10 +8,20 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_tempBubble</sprite>
-    <sprite>sprites\spr_scrollArea</sprite>
+    <sprite>sprites\spr_scrollAreaGencho</sprite>
     <sprite>sprites\spr_kindaBlank</sprite>
-    <sprite>sprites\spr_button</sprite>
-    <sprite>sprites\spr_toolongtodescribe</sprite>
+    <sprite>sprites\spr_announce</sprite>
+    <sprite>sprites\spr_online</sprite>
+    <sprite>sprites\spr_chatbox</sprite>
+    <sprite>sprites\spr_chatfdiv</sprite>
+    <sprite>sprites\spr_chathdiv</sprite>
+    <sprite>sprites\spr_header</sprite>
+    <sprite>sprites\spr_footer</sprite>
+    <sprite>sprites\spr_chatodiv</sprite>
+    <sprite>sprites\spr_usr_bubble</sprite>
+    <sprite>sprites\spr_bot_bubble</sprite>
+    <sprite>sprites\spr_scrollAreaNew</sprite>
+    <sprite>sprites\spr_empty_bubble</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -23,12 +33,11 @@
   <objects name="objects">
     <object>objects\obj_Bubble</object>
     <object>objects\obj_scrollArea</object>
-    <object>objects\obj_option1</object>
-    <object>objects\obj_option2</object>
-    <object>objects\obj_startTheFuckingStoryAlreadyJesusFuckingChrist</object>
+    <object>objects\obj_chatbox</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\mainmenu</room>
+    <room>rooms\dev_mainmenu</room>
+    <room>rooms\rm_mainmenu</room>
     <room>rooms\rm_test</room>
   </rooms>
   <help>
